@@ -146,7 +146,6 @@ r(function () {
 		rowContainer.classList.add("row");
 		rowContainer.classList.add("acenter");
 		rowContainer.style.marginTop = "50px";
-		rowContainer.innerHTML = "<div class='spacer'></div>";
 
 		let btn = document.createElement("button");
 		btn.type = "submit";

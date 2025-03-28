@@ -54,6 +54,7 @@
 					<div class="${properties.kcFormGroupClass!}" style="width: 100%;">
 						<div class="${properties.kcInputWrapperClass!}" style="width: 100%;">
 							<div class="input-group">
+							<div>Enter Authentication Code</div>
 								<div class="input-container">
 									<input tabindex="1" id="totp" name="totp" type="text" autocomplete="off" placeholder="" autofocus/>
 									<label for="totp" class="floating-label">One Time Code*</label>

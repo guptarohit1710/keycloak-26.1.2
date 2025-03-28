@@ -18,17 +18,13 @@
 </div> 
                         <div class="options-block">
                             <div class="remember-me">
-                                <input type="checkbox" id="rememberMe" name="rememberMe" />
-                                <label for="rememberMe">Remember me</label>
                             </div>
                             <div class="forgot-password">
-                                <a href="${url.loginResetCredentialsUrl}" style="color: #143CFD;">Forgot Username or password?</a>
+                                <a href="${url.loginResetCredentialsUrl}" style="color: #006FEE;">Forgot Username or password?</a>
                             </div>
                         </div>
 
                         <button tabindex="4" type="submit" class="login-button">Log In</button>
-
-                       
                        
                     </form>
                 </#if>

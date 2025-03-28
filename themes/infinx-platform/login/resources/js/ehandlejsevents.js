@@ -275,7 +275,6 @@ if (allToggles.length > 0) {
 		rowContainer.classList.add("acenter");
 		rowContainer.style.marginTop = "20px";
 		rowContainer.style.width = "100%";
-		rowContainer.innerHTML = "<div class='spacer'></div>";
 
 		let btn = document.createElement("button");
 		btn.type = "submit";

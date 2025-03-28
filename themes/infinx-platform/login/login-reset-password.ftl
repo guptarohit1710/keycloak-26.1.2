@@ -26,11 +26,11 @@
 				<button tabindex="4" type="submit" class="login-button" id="kc-login">Verify</button>
 				<div style="height:10px"></div>
 				<div class="row acenter" style="width:100%">
-				<div class="spacer"></div>
+			
 					<div class="forgot-password">
 						<a href="${url.loginUrl}">Back to Login</a>
 					</div>
-				<div class="spacer"></div>
+			
 				</div>
 			</form>
 		</div>
